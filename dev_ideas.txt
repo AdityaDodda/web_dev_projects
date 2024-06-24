@@ -1,0 +1,46 @@
+                              Web Dev Ideas
+Why this framework? When? How?
+
+Love Babbar
+1)Remote Code Execution Engine
+2)Expense Tracker System -- like splitwise
+3)EdTech Platform -- like Codehelp
+4)Community Based System -- like discord
+5)Invoicing Based System -- like Referens
+ 
+Hakirat Singh
+1)Youtube Layer -- for checking the video between editor and channel owner
+2)Internalization as a service -- like adding language support for every website called translators using strings
+3)Adding OpenAPI to backend -- chatgpt can talk to backend and call out the service
+4)Adding tests to a codebase -- test cases suite application
+5)Whiteboarding Application
+6)Improved Vimeo -- video transcoding,subtitle generation,thumbnail generation,segment generation
+7)Realtime Game -- poker
+8)Color-Theme Generator
+9)Website Generator -- like Webflow,Framer
+10)LLM Aggregator -- grouping of LLMs
+11)GSOC Issue Tracker -- Developer Related 
+12)More Structured Leetcode
+13)Blind like app for college students
+Web3 Projects
+14)Airdrop Tracker -- like this specific crypto came
+15)Cross-Chain Portfolio Tracker -- indexing crypto transactions done
+16)Paytm Box for blockchain
+17)Razorpay Dashboard for cryptocurrency
+
+Nishant Chahar
+1)Real Time Ticket Booking App
+2)Integrating Payment Gateway
+3)Distributed Storage File System
+4)Robust Payment Retry Mechanism 
+5)Smart Utility Management System
+
+Parikh Jain
+1)Ecommerce Website --Standard Features - Login System,Authentication,Orders,Add to Cart --Standout features - Payment Gateway System, Wallet System, Real-life Implementation
+2)Social Media App --Standard Features - Login System,Likes/Comments,Posts --Standout Features - Real-Time Video Call System, Real-Time Feed System
+3)OTT Platform --Standard Features - Authentication,Login System,List,Search --Standout Features - Self-Made Video Player,Multiple Accounts
+4)Service Provider System(Uber) --Standard Features - Login System,Booking System,Searching --Standout Features - Location Tracker System,Real-Time Payment Gateway System
+5)Management App --Standard Features - Login System,Tasks,Search --Standout Features - Real-Time Transactions/task updation Integrating your tasks with a different API like google workspace(sheets,ppt etc)
+
+Chrome Extensions
+NPM Libraries
